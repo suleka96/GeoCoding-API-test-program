@@ -1,2 +1,3 @@
-"# GeoCoding-API-test-program" 
-this program fetches data from a mysql database and maps those places in the google map using google's geocoding api.
+# Google Geocoding API Tester
+
+This application fetches data from a MySql database and maps the locations on the basemap using Google's Geocoding API.
